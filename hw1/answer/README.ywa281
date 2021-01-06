@@ -1,0 +1,7 @@
+1. Wrote jupyter notebook to explain the functions of every part in the model
+
+2. Discussed how to reduce the running time of the initial version of the model
+
+3. Implemented the new model that combines both unigram model and bigram model
+
+4. Discussed the reason why the probability can not be improved with new model

@@ -1,0 +1,13 @@
+Found a sentence embeddings approach named InferSent to encode sentences into sentence embeddings.
+
+Designed the MLP model in the Siamese model for classifying the stances between headlines and body texts.
+
+Tuned hyperparameters so that the model can have a proper training process.
+
+Recorded the results of the baseline method and the Siamese model and write them in the report.
+
+Collected papers related to stance detection and the Siamese model.
+
+Analyzed the reasons why our model fails to get better performance.
+
+Wrote the remaining parts of the report with others.

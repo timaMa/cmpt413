@@ -1,0 +1,13 @@
+Designed the CNN model in the Siamese model for extracting features from sentence embeddings.
+
+Build the baseline method in the notebook so that it can output the results of the baseline method.
+
+Tuned hyperparameters so that the model can have a proper training process.
+
+Record the results of the baseline method and the Siamese model and write them in the report.
+
+Wrote the introduction part in the report.
+
+Analyzed the reasons why our model fails to get better performance.
+
+Wrote the remaining parts of the report with others.

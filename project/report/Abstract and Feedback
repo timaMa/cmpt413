@@ -1,0 +1,11 @@
+# Fake News Detection with Deep Learning
+
+As the media becomes easier to spread the news around the world, only one piece of news can have a sensational response. However, there are many people making up stories with an intention to deceive for a secondary gain. And this is one of the most serious challenges facing the news industry today. Deep learning has the power to detect whether a story is real or not. However, it is difficult for AI to detect fake news using any existing technologies since the dataset is not available and sometimes some fake news are even plausible from human perspectives. Due to the difficulties of directly detecting whether a story is real, we decide to work on stage I of the fake news challenge, which is to classify whether the content of the news is related to the headline.
+We will use deep learning to train a model that can estimate whether the stance of a body text from a news article relative to a headline. We will try to construct a model similar to XLnet, which is one of the most popular neural networks in the NLP field. And for dataset, we will use FNC-1 to train and test our model.
+First, we will try to figure out what is in the dataset and how to use those dataset. Second, we will try to construct the XLnet. Then, we will tune the hyperparameters to get the best performance of our model. Finally, we will try to propose some methods to improve our model and make some expectations about the next stage of the fake news challenge.
+
+
+- You should have a short abstract that summarizes your project
+- Dataset: for the milestone, you should try to have some statistics and analysis of the dataset
+- Comparisons: there is limited information about what models you will be comparing (will you be trying out XLNet or not? for the baseline model, what other variants will you try)
+- It is better to call the first section "Introduction" since it introduces the problem that you are tackling as well as providing motivation for why it is interesting

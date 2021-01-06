@@ -1,0 +1,8 @@
+pymagnitude
+numpy
+gensim
+notebook
+jupyter_contrib_nbextensions
+jupyter_nbextensions_configurator
+tqdm
+torch

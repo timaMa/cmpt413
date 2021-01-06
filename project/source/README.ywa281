@@ -1,0 +1,13 @@
+Designed the CNN model in the Siamese model for extracting features from sentence embeddings.
+
+Tuned hyperparameters so that the model can have a proper training process.
+
+Tried self-attention mechanism to get sentence embeddings.
+
+Drew the figures in the report.
+
+Wrote the approach part in the report.
+
+Analyzed the reasons why our model fails to get better performance.
+
+Wrote the remaining parts of the report with others.

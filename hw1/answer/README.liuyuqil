@@ -1,0 +1,9 @@
+1. Improved the running speed by adding constraints to prevent words with extremely low probability from being putting into the heap
+
+2. Discussed how to reduce the running time of the initial version of the model
+
+3. Helped debug the program to complete the program
+
+4. Discussed the reason why the probability can not be improved with new model
+
+5. Tested different parameters to improve the accuracy of the old and new models

@@ -1,0 +1,10 @@
+venv
+__pycache__
+.DS_Store
+*.egg-info
+.ipynb_checkpoints
+glove.6B.100d.magnitude
+glove.6B.100d.retrofit.magnitude
+glove.6B.100d.retrofit.txt
+*.pt
+GoogleNews-vectors-negative300.bin
